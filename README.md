@@ -1,2 +1,2 @@
 # DataScience
-if-else
+hi-kod
